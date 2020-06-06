@@ -1,5 +1,5 @@
 
-# This example illustrates how to get all campaigns.
+# This example illustrates how to get budget and last 7 days spending for all ENABLE campaigns of specific customer.
 
 
 import argparse
