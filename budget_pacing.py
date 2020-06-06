@@ -23,7 +23,7 @@ def main(client, customer_id):
     response = ga_service.search_stream(customer_id, query=query)
 
     # Specify the spreadsheet ID and worksheet name where dataframe export to.
-    spreadsheet = '15nC0J1fUpcVir-v-Vc-eEBKb2t_iHYt9Zo2S3RDcAGM'
+    spreadsheet = '15nxxxxxxxxxxxxxxxxxxxxxxxAGM'
     wks_name = 'Sheet1'
 
     camp_type_enum = client.get_type('AdvertisingChannelTypeEnum')
